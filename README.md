@@ -14,5 +14,5 @@
  
 ## Launch:
   ```python
-  python3 Bot1.py 
+  python3 exchangetestbot.py 
   ```
